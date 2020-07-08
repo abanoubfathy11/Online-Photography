@@ -1,0 +1,20 @@
+.reviewParalax{
+    background-image: url("../images/buildings_edited.jpg");
+    background-color: #1b1e21;
+    display: block;
+    height: 780px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+}
+
+.textStyle{
+    font-family: Bahnschrift;
+    color:#584009;
+}
+.textStyle2{
+    font-family: Bahnschrift;
+    color: white;
+}

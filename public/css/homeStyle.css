@@ -1,0 +1,80 @@
+
+#top{
+    text-align: center;
+    padding: 160px;
+    color: white;
+    font-family: Bookman Old Style;
+    font-size: 160px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    z-index: 8000;
+    position: relative;
+}
+.parallax {
+    min-height: 750px;
+    /*background: inherit;*/
+    width: 100%;
+    /*background-color: rgba(255,251,235,.1);*/
+    justify-content: center;
+}
+#footer{
+    min-height: 1000px;
+    background: transparent;
+    width: 100%;
+}
+
+
+.banner1{
+    width: 100% ; ;height: 900px;text-align: center ;justify-content: center;margin: auto;background-color: rgba(255,251,235,.5);
+    padding: 20%; padding-top: 5%;
+    color: #584009;font-family: Tw Cen MT;font-style: normal;
+    font-weight: 100;
+    font-size: 17px;
+    letter-spacing: 0px;
+    line-height: 1.7em;
+}
+.banner2{
+    width: 100% ; ;height: 400px;text-align: center ;justify-content: center;margin: auto;background-color: rgba(255,251,235,.5);
+    padding: 20%; padding-top: 7%;
+    color: #584009;font-family: Tw Cen MT;font-style: normal;
+    font-weight: 100;
+    font-size: 17px;
+    letter-spacing: 0px;
+    line-height: 1.7em;
+}
+.banner3{
+    width: 100% ; ;height: 1100px;text-align: center ;justify-content: center;margin: auto;background-color: rgba(255,251,235,.5);
+    padding: 20%; padding-top: 5%;
+    color: #584009;font-family: Bahnschrift;font-style: normal;
+    font-weight: 100;
+    font-size: 17px;
+    letter-spacing: 0px;
+    line-height: 1.7em;
+}
+.banner4{
+    width: 100% ; ;height: 300px;text-align: center ;justify-content: center;margin: auto;background-color: rgba(255,251,235,.5);
+    padding: 20%; padding-top: 7%;
+    color: #584009;font-family: Bahnschrift;font-style: normal;
+    font-weight: 100;
+    font-size: 17px;
+    letter-spacing: 0px;
+    line-height: 1.7em;
+}
+.banner5{
+    width: 100% ; ;height: 400px;text-align: center ;justify-content: center;margin: auto;background-color: rgba(255,251,235,.5);
+    padding: 20%; padding-top: 7%;
+    color: #584009;font-family: Tw Cen MT;font-style: normal;
+    font-weight: 100;
+    font-size: 17px;
+    letter-spacing: 0px;
+    line-height: 1.7em;
+}
+.banner6{
+    width: 100% ; ;height: 400px;text-align: center ;justify-content: center;margin: auto;background-color: rgba(255,251,235,.5);
+    padding: 20%; padding-top: 5%;
+    color: #584009;font-family: Tw Cen MT;font-style: normal;
+    font-weight: 100;
+    font-size: 17px;
+    letter-spacing: 0px;
+    line-height: 1.7em;
+}

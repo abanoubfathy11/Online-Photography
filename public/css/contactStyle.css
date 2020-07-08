@@ -1,0 +1,26 @@
+.contactParalax{
+    background-image: url("../images/35652130_2093797597502964_3029159744318210048_o.jpg");
+    background-color: #1b1e21;
+    display: block;
+    height: 780px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+}
+
+.textStyle{
+    font-family: Bahnschrift;
+    color:#584009;
+}
+#btnStyle
+{
+    margin-left:45%;
+
+}
+#btnStyle:hover
+{
+    background-color: green;
+
+}
